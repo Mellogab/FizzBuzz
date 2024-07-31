@@ -1,0 +1,15 @@
+C:\Users\mello\source\repos\FizzBuzz\Customized FizzBuzz\bin\Debug\net5.0\Customized FizzBuzz.exe
+C:\Users\mello\source\repos\FizzBuzz\Customized FizzBuzz\bin\Debug\net5.0\Customized FizzBuzz.deps.json
+C:\Users\mello\source\repos\FizzBuzz\Customized FizzBuzz\bin\Debug\net5.0\Customized FizzBuzz.runtimeconfig.json
+C:\Users\mello\source\repos\FizzBuzz\Customized FizzBuzz\bin\Debug\net5.0\Customized FizzBuzz.runtimeconfig.dev.json
+C:\Users\mello\source\repos\FizzBuzz\Customized FizzBuzz\bin\Debug\net5.0\Customized FizzBuzz.dll
+C:\Users\mello\source\repos\FizzBuzz\Customized FizzBuzz\bin\Debug\net5.0\Customized FizzBuzz.pdb
+C:\Users\mello\source\repos\FizzBuzz\Customized FizzBuzz\obj\Debug\net5.0\Customized FizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mello\source\repos\FizzBuzz\Customized FizzBuzz\obj\Debug\net5.0\Customized FizzBuzz.AssemblyInfoInputs.cache
+C:\Users\mello\source\repos\FizzBuzz\Customized FizzBuzz\obj\Debug\net5.0\Customized FizzBuzz.AssemblyInfo.cs
+C:\Users\mello\source\repos\FizzBuzz\Customized FizzBuzz\obj\Debug\net5.0\Customized FizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\mello\source\repos\FizzBuzz\Customized FizzBuzz\obj\Debug\net5.0\Customized FizzBuzz.dll
+C:\Users\mello\source\repos\FizzBuzz\Customized FizzBuzz\obj\Debug\net5.0\refint\Customized FizzBuzz.dll
+C:\Users\mello\source\repos\FizzBuzz\Customized FizzBuzz\obj\Debug\net5.0\Customized FizzBuzz.pdb
+C:\Users\mello\source\repos\FizzBuzz\Customized FizzBuzz\obj\Debug\net5.0\Customized FizzBuzz.genruntimeconfig.cache
+C:\Users\mello\source\repos\FizzBuzz\Customized FizzBuzz\obj\Debug\net5.0\ref\Customized FizzBuzz.dll

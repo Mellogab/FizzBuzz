@@ -1,0 +1,11 @@
+C:\Users\mello\source\repos\TwistedFizzBuzz\TwistedFizzBuzz\bin\Debug\net5.0\TwistedFizzBuzz.deps.json
+C:\Users\mello\source\repos\TwistedFizzBuzz\TwistedFizzBuzz\bin\Debug\net5.0\TwistedFizzBuzz.dll
+C:\Users\mello\source\repos\TwistedFizzBuzz\TwistedFizzBuzz\bin\Debug\net5.0\TwistedFizzBuzz.pdb
+C:\Users\mello\source\repos\TwistedFizzBuzz\TwistedFizzBuzz\obj\Debug\net5.0\TwistedFizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mello\source\repos\TwistedFizzBuzz\TwistedFizzBuzz\obj\Debug\net5.0\TwistedFizzBuzz.AssemblyInfoInputs.cache
+C:\Users\mello\source\repos\TwistedFizzBuzz\TwistedFizzBuzz\obj\Debug\net5.0\TwistedFizzBuzz.AssemblyInfo.cs
+C:\Users\mello\source\repos\TwistedFizzBuzz\TwistedFizzBuzz\obj\Debug\net5.0\TwistedFizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\mello\source\repos\TwistedFizzBuzz\TwistedFizzBuzz\obj\Debug\net5.0\TwistedFizzBuzz.dll
+C:\Users\mello\source\repos\TwistedFizzBuzz\TwistedFizzBuzz\obj\Debug\net5.0\refint\TwistedFizzBuzz.dll
+C:\Users\mello\source\repos\TwistedFizzBuzz\TwistedFizzBuzz\obj\Debug\net5.0\TwistedFizzBuzz.pdb
+C:\Users\mello\source\repos\TwistedFizzBuzz\TwistedFizzBuzz\obj\Debug\net5.0\ref\TwistedFizzBuzz.dll
